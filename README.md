@@ -11,15 +11,10 @@ The project includes **data cleaning, EDA, feature engineering, model training**
 
 ## 📌 Table of Contents
 
-- [Project Structure](#project-structure)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 - [Author](#author)
 
 
